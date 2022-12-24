@@ -7,6 +7,9 @@ code for Web, Cloud Functions, Performance Monitoring. To get started, open the 
  - [Firebase SDK for Cloud Functions Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/).
  - [Firebase Performance Monitoring for Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-perf-mon-web/).
 
+Website hosted in:
+https://chatty-be78e.web.app/
+
 
 ## How to make contributions?
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
